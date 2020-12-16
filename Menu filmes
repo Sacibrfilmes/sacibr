@@ -1,0 +1,29 @@
+<channels>
+<channel>
+<name>Filmes Lançamentos</name>
+<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/store/master/virtualaddon/kodish%20faroeste/icon.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Sacifilmes/sacifilmes/main/filmes%20lancamentos</externallink>
+<fanart>https://www.nerdediva.com.br/wp-content/uploads/2016/08/Se%CC%81ries-TV-Portugal.jpg</fanart>
+<info>Uma Lista atualizada de filmes Dublados recém lançados com alta qualidade.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>TOP 20 - FILMES DUBLADO LANÇAMENTOS</name>
+<thumbnail>http://blog.tudoprafoto.com/wp-content/uploads/2016/07/filmes.png</thumbnail>
+<externallink></externallink>
+<fanart>https://www.nerdediva.com.br/wp-content/uploads/2016/08/Se%CC%81ries-TV-Portugal.jpg</fanart>
+<info>Uma lista com 20 Filmes Lançamentos mais populares. Será Atualizada com base nas notas dos filmes. </info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>Filmes Pedidos</name>
+<thumbnail>http://blog.tudoprafoto.com/wp-content/uploads/2016/07/filmes.png</thumbnail>
+<externallink></externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/store/master/virtualaddon/kodish%20faroeste/fanart.jpg</fanart>
+<info>Uma Lista com Filmes feitos por vocês. Atualizada todos os mês</info>
+</channel>
+</channels>
